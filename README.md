@@ -11,9 +11,9 @@ Skills: Flutter • Dart • Machine Learning • JS • SQL • Firebase • No
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/walidx64)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walidislam/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidrudro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidx64)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=walidrudro&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=walidx64&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=walidx64)  
 
