@@ -25,5 +25,4 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/walidislam/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=walidx64&show_icons=true&locale=en" alt="walidx64" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidx64&" alt="walidx64" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidx64" alt="walidx64" /></a></p>
