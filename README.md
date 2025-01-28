@@ -89,8 +89,10 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidx64&show_icons=true&locale=en" alt="walidx64" />
 </p>
-![](https://github-readme-stats.vercel.app/api?username=walidx64&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walidx64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=walidx64&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
