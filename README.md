@@ -70,9 +70,9 @@
 
 ---
 
-<h2>✒️ Recent Posts</h2>
+<h2>✒️ My Portfolio Website</h2>
 <ul>
-  <li><a target="_blank" href="">Coming soon...</a></li>
+  <li><a target="_blank" href="https://walid-portfolio-eta.vercel.app/">Explore my latest projects on my personal portfolio website</a></li>
 </ul>
 
 ---
