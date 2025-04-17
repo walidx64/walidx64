@@ -88,12 +88,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walidx64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![walidx64's Stats](https://github-readme-stats.vercel.app/api?username=walidx64&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![walidx64's Streak](https://github-readme-streak-stats.herokuapp.com/?user=walidx64&theme=vue-dark&hide_border=true)
 
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=walidx64" alt="walidx64" />
-  </a>
-</p>
