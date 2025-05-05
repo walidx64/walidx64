@@ -72,7 +72,17 @@
 
 <h2>✒️ My Portfolio Website</h2>
 <ul>
-  <li><a target="_blank" href="https://walid-portfolio-eta.vercel.app/">Explore my latest projects on my personal portfolio website</a></li>
+  <li><a target="_blank" href="https://www.walidislam.space/">Explore my latest projects on my personal portfolio website</a></li>
+</ul>
+
+<h2> 🌿 Nature Unlock App</h2>
+<ul>
+  <li><a target="_blank" href="https://www.natureunlock.app/">Nature Unlock App live on Apple App Store</a></li>
+</ul>
+
+<h2> 🇩🇪 Berlin Art Walk App</h2>
+<ul>
+  <li><a target="_blank" href="https://www.berlinwalk.art/">Berlin Art Walk App live on Google playstore & Apple App Store</a></li>
 </ul>
 
 ---
