@@ -85,6 +85,11 @@
   <li><a target="_blank" href="https://www.berlinwalk.art/">Berlin Art Walk App live on Google playstore & Apple App Store</a></li>
 </ul>
 
+<h2> 🌿 ZenScript App</h2>
+<ul>
+  <li><a target="_blank" href="https://www.zenscript.app/">ZenScript App live on Google playstore</a></li>
+</ul>
+
 ---
 
 <h2>⚡️ Where to find me</h2>
